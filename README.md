@@ -8,3 +8,5 @@ Features
 Setup
 1. Clone the repository.
 2. Run the project locally.
+# New feature added
+This feature will improve the user experience.
